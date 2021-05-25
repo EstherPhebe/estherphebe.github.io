@@ -19,13 +19,11 @@ I have a bunch of interests, I’d like to think my existence is a collection of
 ## Core Values
 “What are my core values?” I have asked myself this question over and over again since I saw the blog prompt. I know for sure that what holds me at my center is Love, Courage, Community. 
 
-1. **Love** -  I believe that the work it takes for nothing to become something is love. Love spurs action, growth and change. I’d like to believe that Outreachy started as an idea to give opportunities in tech to under-represented and typically passed over groups of people. Looking at other groups of people and thinking they deserve a shot is love. The work to build it from the ground up, set up a working structure and see it thrive is love. 
+1. **Love** -  I believe that the work it takes for nothing to become something is love. Love spurs action, growth and change. I’d like to believe that Outreachy started as an idea to give opportunities in tech to under-represented and typically passed over groups of people. Looking at other groups of people and thinking they deserve a shot is love. The work to build it from the ground up, set up a working structure and see it thrive is love. Love is compassion, loving people means that you see them and accept them for who they are.
 
-Love is compassion, loving people means that you see them and accept them for who they are.
+2. **Courage** - I have learnt that courage is not the absence of fear (I am afraid most of the time). Courage is still moving ahead even with the fear, putting on shaky foot in front of the other to keep moving forward to your dreams.
 
-2. **Courage** - I have learnt that courage is not the absence of fear (I am afraid most)
-
-3. **Community** - Nobody exists in a vacuum, communities are the backbone of society. Sometimes we get to pick our communities and other times we are thrust into communities. Communities
+3. **Community** - Nobody exists in a vacuum, communities are the backbone of society. Sometimes we get to pick our communities and other times we are thrust into communities. 
 
 ## Outreachy
 A couple of my friends knew that I was looking for internship positions and one of them sent me the Outreachy link and told me to check it out. I read through the website and made a decision to apply. I had doubts that I was going to get through as I am a relatively new developer and I hadn’t contributed to Open Source before but I decided to try, even if I failed I would have done so while daring greatly.
