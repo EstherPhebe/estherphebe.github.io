@@ -9,7 +9,7 @@ tags = [
 +++
 
 ---
-# Hello Outreachy!
+## A little about me!
 My name is Temenu Ayomide Esther-Phebe but most people just call me just Phebe, my pronouns are she/her. I grew up and spent my entire life in the large, bustling city of Lagos and left for the city of Osun for my University education where I fell in love with the slow sleepy town of *Ile-Ife*. It is my life’s goal to settle in a slow, sleepy town and do my work.
 
 I am an Outreachy intern, when I say that out loud it makes me giddy. I’m excited to be a part of something, a team. I am a part of the the 71 interns from different countries selected for the May 2021 round of the Outreachy 3 month internship.
@@ -19,7 +19,7 @@ I have a bunch of interests, I’d like to think my existence is a collection of
 ## Core Values
 “What are my core values?” I have asked myself this question over and over again since I saw the blog prompt. I know for sure that what holds me at my center is Love, Courage, Community. 
 
-1. **Love** -  I believe that the work it takes for nothing to become something is love. Love spurs action, growth and change. I’d like to believe that Outreachy started as an idea to give opportunities in tech to under-represented and typically passed over groups of people. Looking at other groups of people and thinking they deserve a shot is love. The work to build it from the ground up, set up a working structure and see it thrive is love. Love is compassion, loving people means that you see them and accept them for who they are.
+1. **Love** -  I believe that the work it takes for nothing to become something is love. Love spurs action, growth and change. The work to improve at my work and be a better person is tied into love. I’d like to believe that Outreachy started as an idea to give opportunities in tech to under-represented and typically passed over groups of people. Looking at other groups of people and thinking they deserve a shot is love. The work to build it from the ground up, set up a working structure and see it thrive is love. Love is compassion, loving people means that you see them and accept them for who they are.
 
 2. **Courage** - I have learnt that courage is not the absence of fear (I am afraid most of the time). Courage is still moving ahead even with the fear, putting on shaky foot in front of the other to keep moving forward to your dreams.
 
