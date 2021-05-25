@@ -5,11 +5,14 @@ date = "2021-05-24"
 author = "Esther-Phebe Temenu"
 +++
 
-Written in carbon, Esther-Phebe is a sure fire software engineer and more. Esther-Phebe writes HTML, CSS, Javascript and can do a lot and plenty of UI/UX work with Figma and a ton of software suites and tools.
+Esther-Phebe is an **amazing** software engineer (I'm emphasizing amazing because imposter syndrome has me in a chokehold and has refused to let up). 
+
+Esther-Phebe writes HTML, CSS, Javascript and VueJS. I also design Interfaces.
 
 Esther-Phebe makes use of a variety of tools including:
 
 * Visual Studio Code
+* Github
 * Figma
-* Blah blah blah
+* This is an ever growing list
 
