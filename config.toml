@@ -1,4 +1,6 @@
 baseURL = "https://example.com"
+languageCode = "en"
+DefaultContentLanguage = "en"
 title = "Esther-Phebe A. Temenu"
 theme = "anatole"
 summarylength = 10
@@ -19,8 +21,12 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Esther-Phebe A. Temenu"
 author = "Esther-Phebe Temenu"
-description = "Super Software Engineer"
+description = """
+Super Software Engineer
+Writing from Lagos,Nigeria
+"""
 profilePicture = "images/profile.jpg"
+readMore = true
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
@@ -61,4 +67,3 @@ url = "https://twitter.com/esther_phebe"
   weight = 300
   identifier = "about"
   url = "/about/"
-

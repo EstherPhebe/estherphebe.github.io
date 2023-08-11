@@ -1,18 +1,28 @@
 +++
 author = "Esther-Phebe Temenu"
-title = "Hello Outreachy"
+title = "Hello Outreachy!"
 date = "2021-05-24"
-description = "Outreachy introduction"
+description = "My Outreachy introduction"
 tags = [
-    "outreachy",
+    "introduction",
+    "blog"
 ]
+categories = [
+    "Outreachy",
+]
+thumbnail = "images/OutreachyWelcome.jpg"
 +++
 
 ---
 ## A little about me!
+
 My name is Temenu Ayomide Esther-Phebe but most people just call me just Phebe, my pronouns are she/her. I grew up and spent my entire life in the large, bustling city of Lagos and left for the city of Osun for my University education where I fell in love with the slow sleepy town of *Ile-Ife*. It is my life’s goal to settle in a slow, sleepy town and do my work.
 
-I am an Outreachy intern, when I say that out loud it makes me giddy. I’m excited to be a part of something, a team. I am a part of the the 71 interns from different countries selected for the May 2021 round of the Outreachy 3 month internship.
+I am an Outreachy intern, when I say that out loud it makes me giddy. 
+
+![Outreachy Acceptance Email](/images/OutreachyAcceptance.jpg "Outreachy Acceptance Email")
+
+I’m excited to be a part of something, a team. I am a part of the the 71 interns from different countries selected for the May 2021 round of the Outreachy 3 month internship.
 
 I have a bunch of interests, I’d like to think my existence is a collection of interests. Primarily I love literature, African fiction holds a special place in my heart. I love music so much, in my head I’m a rockstar. I love YouTube; I watch cooking videos, DIY videos, Ted talks, dev videos, science experiments, home makeovers. I am deeply intrigued by the fact that whatever it is you’re trying to do, someone has made a YouTube tutorial covering it.
 

@@ -16,3 +16,4 @@ Esther-Phebe makes use of a variety of tools including:
 * Figma
 * This is an ever growing list
 
+You can shoot me a mail [@phebetemenu45@gmail.com](mailto:phebetemenu45@gmail.com) 
