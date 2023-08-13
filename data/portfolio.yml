@@ -1,0 +1,53 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    portfolioitem:
+      # - name: Project 1
+      #   image: '/images/portfolio/code.jpg'
+      #   link: https://gohugo.io/
+      #   linktext: 'Visit project website'
+      #   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+      #   tags:
+      #     - Tag 1
+      #     - Tag 2
+      #   status: 'Finished'
+      #   start: '2020'
+      #   end: '2021'
+      #   authors:
+      #     - lxndrblz
+      #     - alexanderdavide
+      - name: ngbọ́
+        image: '/images/portfolio/ngbo.png'
+        link: 'https://estherphebe.github.io/ngbo-search'
+        linktext: 'Visit project website to find your favorite shows'
+        description: 'ngbọ́ ia a website that allows users search for their favorite TV Shows and find additional information about the shows. Written in Vanilla JS using Axios. Powered by TVMaze API. Hosted with Github pages.'
+        status: 'Ongoing'
+        tags:
+          - JavaScript
+          - Axios
+        authors:
+          - Phebe Temenu
+  # portfolio category
+  - title: Business Solution Research
+    portfolioitem:
+      - name: 'PreggyCare: The Maternal Health Companion'
+        image: '/images/portfolio/preggycare.png'
+        link: https://drive.google.com/file/d/1uNRmJU07vt1nS258fFHbm6_n0w-9f4ai/view?usp=sharing
+        linktext: 'Read through the project pitch deck'
+        description: 'An integrated mobile application designed to provide Comprehensive Electronic Health Records (EHR) Integration, Personalized Pregnancy Tracking and Education, Real-time Monitoring and Communication. 
+        
+        Watch the [**project pitch video**](https://youtu.be/c60d10tnBu8)'
+        status: Finished
+        tags:
+          - Maternal Health Solution
+          - ALX
+          - 'GCGO: HealthCare'
+        authors: 
+          - Team PreggyCare
+      # - name: Project 2
+      #   image: '/images/portfolio/code.jpg'
+      #   link: https://gohugo.io/
+      #   description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+      #   tags:
+      #     - Tag 1
+      #     - Tag 2

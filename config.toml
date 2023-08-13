@@ -19,11 +19,11 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Esther-Phebe A. Temenu"
-author = "Esther-Phebe Temenu"
+title = "Phebe A. Temenu"
+author = "Phebe Temenu"
 description = """
-Super Software Engineer
-Writing from Lagos,Nigeria
+Backend and Cloud Developer 
+Lagos, Nigeria.
 """
 profilePicture = "images/profile.jpg"
 readMore = true
@@ -62,8 +62,27 @@ url = "https://twitter.com/esther_phebe"
   identifier = "posts"
   url = "/post/"
 
+  [[main.main]]
+  name = "Bio"
+  weight = 300
+  identifier = "bio"
+
   [[menu.main]]
   name = "About"
-  weight = 300
+  weight = 310
   identifier = "about"
   url = "/about/"
+  parent = "bio" 
+
+  [[menu.main]]
+  name = "Elevator Pitch"
+  weight = 320
+  identifier = "elevator-pitch"
+  url = "/elevator-pitch/"
+  parent = "bio" 
+
+  [[menu.main]]
+  name = "Portfolio"
+  weight = 400
+  identifier = "portfolio"
+  url = "/portfolio/"
