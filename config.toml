@@ -27,6 +27,7 @@ Lagos, Nigeria.
 """
 profilePicture = "images/profile.jpg"
 readMore = true
+mainSections = ["post"]
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
