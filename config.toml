@@ -75,12 +75,12 @@ url = "https://twitter.com/esther_phebe"
   url = "/about/"
   parent = "bio" 
 
-  [[menu.main]]
-  name = "Elevator Pitch"
-  weight = 320
-  identifier = "elevator-pitch"
-  url = "/elevator-pitch/"
-  parent = "bio" 
+  # [[menu.main]]
+  # name = "Elevator Pitch"
+  # weight = 320
+  # identifier = "elevator-pitch"
+  # url = "/elevator-pitch/"
+  # parent = "bio" 
 
   [[menu.main]]
   name = "Portfolio"
