@@ -16,7 +16,7 @@ thumbnail = "images/OutreachyWelcome.jpg"
 ---
 ## A little about me!
 
-My name is Temenu Ayomide Esther-Phebe but most people just call me just Phebe, my pronouns are she/her. I grew up and spent my entire life in the large, bustling city of Lagos and left for the city of Osun for my University education where I fell in love with the slow sleepy town of *Ile-Ife*. It is my life’s goal to settle in a slow, sleepy town and do my work.
+My name is Phebe, my pronouns are she/her. I grew up and spent my entire life in the large, bustling city of Lagos and left for the city of Osun for my University education where I fell in love with the slow sleepy town of *Ile-Ife*. It is my life’s goal to settle in a slow, sleepy town and do my work.
 
 I am an Outreachy intern, when I say that out loud it makes me giddy. 
 
